@@ -1,1 +1,1 @@
-console.log("vida")
+console.log("life")
