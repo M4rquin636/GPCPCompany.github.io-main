@@ -1,1 +1,1 @@
-console.log("Solo")
+gpcp
